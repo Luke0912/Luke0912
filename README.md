@@ -1,15 +1,26 @@
-### Hi there 👋
 
+<h1 align="center"> ### Hi there 👋<span style="margin-left:'5';"><img src="https://emojis.slackmojis.com/emojis/images/1471045866/898/praying.gif?1471045866" width="40"/></span></h1>
+<img align='right' src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" height="270" />
+
+```js
+import SoftwareDeveloper from 'India';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Shubham Dubey';
+
+  availability = "Available to hire!!"
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript];
+  databases  = [ 'MongoDB'];
+  frameworks = ['React', 'Express Js'];
+}
+```
+
+
+<hr/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <!--
-**Luke0912/Luke0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on frontend
-- 🌱 I’m currently learning Full Stack Web Development
-- 👯 I’m looking to collaborate on Web Development
-- 🤔 I’m looking for help with logic building
-- 💬 Ask me about my codes
-- 📫 Reach me at: shubhamdubey,dubey4@gmail.com
-- ⚡ Fun fact: I like to stay at front of Queue
--->

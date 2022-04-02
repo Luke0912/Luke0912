@@ -4,12 +4,11 @@
 <img align='right' src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" height="270" />
 
 ```js
-import SoftwareDeveloper from 'India';
 
-class Bio extends SoftwareDeveloper {
-  name     = 'Shubham Dubey';
 
-  availability = "Available to hire!!"
+SoftwareDeveloper{
+  Name = 'Shubham Dubey';
+  Availability = "Available to hire!!"
 }
 
 class Skills extends SoftwareDeveloper {

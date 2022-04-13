@@ -5,13 +5,13 @@
 
 
 
-  Name = Shubham Dubey
+  Name = Shubham Dubey <br/>
   Availability = Available to hire!!
 
 
-  languages  = JavaScript
-  databases  = MongoDB
-  frameworks = React Express Js
+  languages  = JavaScript <br/>
+  databases  = MongoDB <br/>
+  frameworks = React Express Js <br/>
 
 
 

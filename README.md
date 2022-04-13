@@ -9,9 +9,9 @@
   Availability = Available to hire!!
 
 
-  languages  = JavaScript <br/>
-  databases  = MongoDB <br/>
-  frameworks = React Express Js <br/>
+  Languages  = JavaScript <br/>
+  Databases  = MongoDB <br/>
+  Frameworks = React Express Js <br/>
 
 
 

@@ -3,15 +3,17 @@
 </span></h1>
 <img align='right' src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" height="270" />
 
+let Developer={
+    Name : Shubham Dubey,
+  Availability : Available to hire!!
+}
 
 
-  Name = Shubham Dubey <br/>
-  Availability = Available to hire!!
 
 
   Languages  = JavaScript <br/>
   Databases  = MongoDB <br/>
-  Frameworks = React Express Js <br/>
+  Frameworks/Libraries = React Express Js <br/>
 
 
 

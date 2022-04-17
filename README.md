@@ -11,7 +11,7 @@
 
   Languages  = JavaScript <br/>
   Databases  = MongoDB <br/>
-  Frameworks/Libraries = React Express Js <br/>
+  Frameworks/Libraries = Express Js, React  <br/>
 
 
 

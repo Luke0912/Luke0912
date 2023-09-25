@@ -47,12 +47,6 @@
 
   
 </td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luke0912&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Luke0912&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight"/>
-  
-  </td>
 </tr>
 </table>
 
